@@ -1,0 +1,109 @@
+Section 1: Introduction
+1. Introduction
+2. Course Overview -- PLEASE DON'T SKIP THIS LECTURE! Thanks :)
+3. FAQ - Frequently Asked Questions
+Section 2: Installation and Setup
+4. Quick Note for MacOS and Linux Users
+5. Installing TensorFlow and Environment Setup
+Section 3: What is Machine Learning?
+6. Machine Learning Overview
+Section 4: Crash Course Overview
+7. Crash Course Section Introduction
+8. NumPy Crash Course
+9. Pandas Crash Course
+10. Data Visualization Crash Course
+11. SciKit Learn Preprocessing Overview
+12. Crash Course Review Exercise
+13. Crash Course Review Exercise - Solutions
+Section 5: Introduction to Neural Networks
+14. Introduction to Neural Networks
+15. Introduction to Perceptron
+16. Neural Network Activation Functions
+17. Cost Functions
+18. Gradient Descent Backpropagation
+19. TensorFlow Playground
+20. Manual Creation of Neural Network - Part One
+21. Manual Creation of Neural Network - Part Two - Operations
+22. Manual Creation of Neural Network - Part Three - Placeholders and Variables
+23. Manual Creation of Neural Network - Part Four - Session
+24. Manual Neural Network Classification Task
+Section 6: TensorFlow Basics
+25. Introduction to TensorFlow
+26. TensorFlow Basic Syntax
+27. TensorFlow Graphs
+28. Variables and Placeholders
+29. TensorFlow - A Neural Network - Part One
+30. TensorFlow - A Neural Network - Part Two
+31. TensorFlow Regression Example - Part One
+32. TensorFlow Regression Example _ Part Two
+33. TensorFlow Classification Example - Part One
+34. TensorFlow Classification Example - Part Two
+35. TF Regression Exercise
+36. TF Regression Exercise Solution Walkthrough
+37. TF Classification Exercise
+38. TF Classification Exercise Solution Walkthrough
+39. Saving and Restoring Models
+Section 7: Convolutional Neural Networks
+40. Introduction to Convolutional Neural Network Section
+41. Review of Neural Networks
+42. New Theory Topics
+43. Quick note on MNIST lecture
+44. MNIST Data Overview
+45. MNIST Basic Approach Part One
+46. MNIST Basic Approach Part Two
+47. CNN Theory Part One
+48. CNN Theory Part Two
+49. CNN MNIST Code Along - Part One
+50. CNN MNIST Code Along - Part Two
+51. Introduction to CNN Project
+52. CNN Project Exercise Solution - Part One
+53. CNN Project Exercise Solution - Part Two
+Section 8: Recurrent Neural Networks
+54. Introduction to RNN Section
+55. RNN Theory
+56. Manual Creation of RNN
+57. Vanishing Gradients
+58. LSTM and GRU Theory
+59. Introduction to RNN with TensorFlow API
+60. RNN with TensorFlow - Part One
+61. RNN with TensorFlow - Part Two
+62. Quick Note on RNN Plotting Part 3
+63. RNN with TensorFlow - Part Three
+64. Time Series Exercise Overview
+65. Time Series Exercise Solution
+66. Quick Note on Word2Vec
+67. Word2Vec Theory
+68. Word2Vec Code Along - Part One
+69. Word2Vec Part Two
+Section 9: Miscellaneous Topics
+70. Intro to Miscellaneous Topics
+71. Deep Nets with Tensorflow Abstractions API - Part One
+72. Deep Nets with Tensorflow Abstractions API  - Estimator API
+73. Deep Nets with Tensorflow Abstractions API  - Keras
+74. Deep Nets with Tensorflow Abstractions API  - Layers
+75. Tensorboard
+Section 10: AutoEncoders
+76. Autoencoder Basics
+77. Dimensionality Reduction with Linear Autoencoder
+78. Linear Autoencoder PCA Exercise Overview
+79. Linear Autoencoder PCA Exercise Solutions
+80. Stacked Autoencoder
+Section 11: Reinforcement Learning with OpenAI Gym
+81. Introduction to Reinforcement Learning with OpenAI Gym
+82. Extra Resources for Reinforcement Learning
+83. Introduction to OpenAI Gym
+84. OpenAI Gym Steup
+85. Open AI Gym Env Basics
+86. Open AI Gym Observations
+87. OpenAI Gym Actions
+88. Simple Neural Network Game
+89. Policy Gradient Theory
+90. Policy Gradient Code Along Part One
+91. Policy Gradient Code Along Part Two
+Section 12: GAN - Generative Adversarial Networks
+92. Introduction to GANs
+93. GAN Code Along - Part One
+94. GAN Code Along - Part Two
+95. GAN Code Along - Part Three
+Section 13: BONUS
+96. Bonus Lecture
